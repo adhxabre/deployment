@@ -13,7 +13,6 @@ import (
 )
 
 func main() {
-
 	// initial DB
 	mysql.DatabaseInit()
 
