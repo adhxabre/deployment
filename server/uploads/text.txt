@@ -1,1 +1,2 @@
-This folder to Store file Upload
+This folder must be available in order to make Cloudinary works on Railway deployment, otherwise it can't do upload.
+This file is also must be available here to prevent uploads folder is not pushed into github.
